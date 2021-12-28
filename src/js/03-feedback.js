@@ -1,6 +1,4 @@
 import throttle from "lodash.throttle";
-import '../css/common.css';
-import '../css/feedback.css';
 
 const STORAGE_KEY = 'feedback';
 
