@@ -19,7 +19,7 @@ galleryImg.insertAdjacentHTML('afterbegin', imagesMarkup);
 let gallery = new SimpleLightbox('.gallery a', {
     captionsData: 'alt',
     captionPosition: 'bottom',
-    captionDelay: 250,
+    captionDelay: 500,
 });
 
 console.log(galleryItems);
